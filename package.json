@@ -1,0 +1,15 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Simple restfull API",
+  "main": "app.js",
+  "dependencies": {
+    "node-restful": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Beja",
+  "license": "ISC"
+}
